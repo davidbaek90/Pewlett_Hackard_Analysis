@@ -48,7 +48,7 @@ Are there enough qualified, retirement-ready employees in the departments to men
 
 ## Summary
 #### How many roles will need to be filled as "silver tsunami" begins to amke an impact
-- In order to help Bobby's manager prepare for the "silver tsunami", I have generated a table to show a count of retiring employees by title and their respective department, shown in the table below. The table shows the total number of retiring employees in specific department by title. This should help Bobby's manager to put higher hiring effort in the jobs that are in high count. Also, categorizing by department will help Bobby by appropriately allocating the amount of his HR resources in each department, primarily focusing on departments with high retiring count such as Development, Product and Sales department.
+- In order to help Bobby's manager prepare for the "silver tsunami", I have generated a table with new query to show a count of retiring employees by title and their respective department, shown in the table below. The table shows the total number of retiring employees in specific department by title. This should help Bobby's manager to put higher hiring effort in the jobs that are in high count. Also, categorizing by department will help Bobby by appropriately allocating the amount of his HR resources in each department, primarily focusing on departments with high retiring count such as Development, Product and Sales department.
 <p align="center">
 <b>List of Employees Eligible for Mentorship Program</b></br>
     <img src="https://raw.githubusercontent.com/davidbaek90/Pewlett_Hackard_Analysis/main/Resoureces/retiring_titles_bydept.PNG">
