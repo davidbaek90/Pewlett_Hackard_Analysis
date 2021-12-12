@@ -7,10 +7,6 @@
 #### The purpose of the Pewlett Hackard Analysis is to help Bobby's manager understand the current situation of employee population and prepare for the "silver tsunami" of eligibile employees who are planning on retiring in the near future. The information we need to provide include the number of retiring employees per title and understanding who are eligible to participate in a mentorship program.
 
 
-Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
-How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
-
 ## Results
 
 #### 1. Whole list of retiring employees (unfiltered)
@@ -45,6 +41,7 @@ Are there enough qualified, retirement-ready employees in the departments to men
 <b>List of Employees Eligible for Mentorship Program</b>
     <img src="https://github.com/davidbaek90/Pewlett_Hackard_Analysis/blob/main/Resoureces/mentorship_eligibility.png">
 </p>
+
 
 ## Summary
 #### How many roles will need to be filled as "silver tsunami" begins to amke an impact
